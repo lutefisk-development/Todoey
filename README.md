@@ -1,4 +1,4 @@
-#Todoey
+# Todoey
 
 Is a simple todo app. Using Laravel backend and Vue/Tailwind frontend.
 
