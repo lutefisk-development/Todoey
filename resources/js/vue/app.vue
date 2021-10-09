@@ -1,12 +1,15 @@
 <template>
-    <div class="heading">
-        <h1 class="heading__header">Hello world!</h1>
+    <div>
+        <Header />
     </div>
 </template>
 
 <script>
+import Header from './components/Header.vue';
 export default {
-
+    components: {
+        Header
+    }
 }
 </script>
 
